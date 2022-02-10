@@ -1,0 +1,52 @@
+body{
+    background: linear-gradient(to right,skyblue,lightpink,white);
+}
+.heading{
+    color: black;
+    text-align: center;
+    text-shadow: 2px 3px 3px cyan;
+}
+.click{
+    color: black;
+    background-color: cornflowerblue;
+    height: 60px;
+    font-size: 18px;
+    border-radius: 25px;
+    position: absolute;
+    left: 280px;
+    top: 200px;
+    border: 3px solid black;
+}
+.click1{
+    color: black;
+    background-color: cornflowerblue;
+    height: 60px;
+    font-size: 18px;
+    border-radius: 25px;
+    position: absolute;
+    left: 850px;
+    top: 200px;
+    border: 3px solid black;
+}
+.box1{
+    height: 200px;
+    width: 400px;
+    background-color: lightgreen;
+    font-size: 18px;
+    position: absolute;
+    left: 250px;
+    top: 400px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+.box2{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(212, 116, 191);
+    font-size: 18px;
+    position: absolute;
+    left: 800px;
+    top: 400px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
